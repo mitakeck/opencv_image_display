@@ -10,7 +10,7 @@ OpenCV で画像を読み込んで表示させるだけ
 
 ## Demo
 
-![lena](https://raw.githubusercontent.com/mltake/opencv_image_display/master/opencv_image_display/opencv_image_display_lena.png)
+![lena](https://raw.githubusercontent.com/mltake/opencv_image_display/master/opencv_imag_display_lena.PNG)
 
 ## Requirement
 
